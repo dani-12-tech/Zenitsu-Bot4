@@ -30,7 +30,7 @@ global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
 global.botname = "Zenitsu-Bot"
-global.ownernumber = '918348225320'
+global.ownernumber = '923451237742'
 global.ownername = '🦄Dream Guy Deepak'
 global.ownerNumber = ["918348225320@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@dreamguydeepak"
